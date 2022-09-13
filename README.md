@@ -1,2 +1,2 @@
-# Insertion-Sort-Assignment
+# Veri Yapıları ve Algoritmalar
 www.patika.dev
